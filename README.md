@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/StarchDev/tinywmwebsite"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tinywmwebsite-dark.svg"><img src="assets/project-tinywmwebsite-light.svg" width="49%" alt="tinywmwebsite"></picture></a>&nbsp;<a href="https://github.com/StarchDev/linux-goodies"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-linux-goodies-dark.svg"><img src="assets/project-linux-goodies-light.svg" width="49%" alt="linux-goodies"></picture></a>
-
-<a href="https://github.com/StarchDev/Starship-Preset-Manager"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-starship-preset-manager-dark.svg"><img src="assets/project-starship-preset-manager-light.svg" width="49%" alt="Starship-Preset-Manager"></picture></a>&nbsp;<a href="https://github.com/StarchDev/ghostty-mgr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ghostty-mgr-dark.svg"><img src="assets/project-ghostty-mgr-light.svg" width="49%" alt="ghostty-mgr"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
